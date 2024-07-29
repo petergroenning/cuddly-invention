@@ -1,3 +1,5 @@
 pytesseract
 fastapi
 uvicorn
+opencv-python
+flask
